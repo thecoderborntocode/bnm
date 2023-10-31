@@ -1,0 +1,105 @@
+.title{
+    font-size: 50px;
+    font-family: cursive;
+  
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+#title1{
+    color: springgreen;
+    background-color: chocolate;
+}
+#title2{
+    color: rgb(239, 247, 4);
+    
+}
+
+#div1{
+    width: 600px;
+    height: 100px;
+    background-color: rgb(15, 152, 226);
+    background-image:url("OIP1.jpg");
+    border-radius: 50px;
+    
+}
+#col{
+    margin-top: 0px;
+    width: 1600px;
+    height: 150px;
+    background-color: #90323D
+    
+    
+    
+}
+.content1{
+    color: goldenrod;
+    text-align: center;
+    font-family: cursive;
+
+    
+}
+body{
+    background-color: #F686BD;
+}
+#imgsrc{
+    width: 100px;
+    height: 100px;
+   
+}
+#content3{
+    width: 305px;
+    height: 523px;
+    background-image: url("OIP.jpg");
+    color: rgb(235, 149, 12);
+}
+#dish{
+    width: 150px;
+    height: 150px;
+    color: chocolate;
+    background-color: chartreuse;
+    border-radius: 30px;
+}
+.menu{
+    font-family: cursive;
+    
+}
+#vpizza{
+    font-size: 40px;
+
+}
+
+
+#desserts{
+    font-size: 40px;
+    margin-left: 100px;
+
+}
+#veggiedishes{
+    font-size: 40px;
+    margin-left: 0px;
+}
+#login{
+    font-size: 70px;
+    
+    margin-top: 0px;
+    color: rgb(251, 238, 7);
+    background-image: url("OIP1.jpg");
+    border-radius: 30px;
+}
+#ph{
+    font-size: 30px;
+    
+    border-radius: 30px;
+}
+#button{
+    font-size: 20px;
+
+    border-radius: 30px;
+    width: 70px;
+    height: 70px;
+}
+
+
+
+ 
